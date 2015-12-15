@@ -1,0 +1,42 @@
+zone: qa
+list:
+  - type: add
+    addr: 강원도 강릉시 자조왈길 13-12
+  - type: add
+    addr: 강원도 영월군 남면 영월로 323-21
+  - type: add
+    addr: 경기도 남양주시 와부읍 궁촌로 79-9
+  - type: add
+    addr: 대구광역시 동구 과학로 94
+  - type: add
+    addr: 부산광역시 수영구 민락본동로 7
+  - type: delete
+    addr: 강원도 강릉시 송정길2번길 20-1
+  - type: delete
+    addr: 경기도 김포시 통진읍 흥신로254번길 10-42
+  - type: delete
+    addr: 경기도 남양주시 경춘로 456-9
+  - type: delete
+    addr: 경상남도 창원시 의창구 소계로 129-1
+  - type: delete
+    addr: 경상남도 통영시 광도면 노산2길 49-4
+  - type: change
+    addr: 경기도 하남시 검단산로156번길 59
+  - type: change
+    addr: 경기도 하남시 검단산로146번길 79-8
+  - type: change
+    addr: 경기도 화성시 향남읍 분양동길 70-19
+  - type: change
+    addr: 경기도 화성시 향남읍 분향동길 70-19
+  - type: change
+    addr: 전라남도 나주시 남내4길 5-1
+  - type: change
+    addr: 전라남도 나주시 남내4길 5
+  - type: change
+    addr: 충청남도 공주시 저대길 17
+  - type: change
+    addr: 충청남도 공주시 저대길 19
+  - type: change
+    addr: 충청북도 충주시 수안보면 깃골길 14
+  - type: change
+    addr: 충청북도 충주시 수안보면 귓골길 14
